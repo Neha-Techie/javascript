@@ -33,4 +33,3 @@ null is object ->
 console.log(typeof "neha");
 console.log(typeof null); //it is an object
 console.log(typeof undefined); //it is //undefined
-
