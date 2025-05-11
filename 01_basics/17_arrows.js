@@ -59,3 +59,6 @@
         return num1 + num2
     }
     console.log(addTwo(3,4));
+
+    const myArray = [ 2,5,6,7,8]
+//myArray.forEach(()=>{}) this is arrow functions
